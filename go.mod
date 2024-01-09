@@ -1,3 +1,3 @@
-module github.com/ds-15/lab1
+module lab3
 
-go 1.21.2
+go 1.21.3
